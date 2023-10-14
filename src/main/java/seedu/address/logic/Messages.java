@@ -7,6 +7,7 @@ import java.util.stream.Stream;
 import seedu.address.logic.parser.Prefix;
 import seedu.address.model.gradedComponent.GradedComponent;
 import seedu.address.model.student.Student;
+import seedu.address.model.studentScore.StudentScore;
 
 /**
  * Container for user visible messages.
@@ -57,6 +58,7 @@ public class Messages {
                 .append(gc.getMaxMarks())
                 .append("; Weightage: ")
                 .append(gc.getWeightage());
+
         return builder.toString();
     }
 
