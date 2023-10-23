@@ -109,7 +109,6 @@ public class StudentScoreBook implements ReadOnlyStudentScoreBook {
         }
         return null;
     }
-    
     /**
      * Clears all data from this {@code StudentScoreBook}.
      */
