@@ -97,6 +97,10 @@ public class StudentScoreBook implements ReadOnlyStudentScoreBook {
         studentScores.remove(key);
     }
 
+    /**
+     * Returns a {@code StudentScore} associated with the given {@code studentId}
+     * and {@code gcName}
+     */
     public StudentScore getScoreByIdAndName(StudentId studentId, GcName gcName) {
         for (StudentScore sc : studentScores) {
             if (sc.getStudentId().equals(studentId) && sc.getGcName().equals(gcName)) {
@@ -105,7 +109,7 @@ public class StudentScoreBook implements ReadOnlyStudentScoreBook {
         }
         return null;
     }
-  
+    
     /**
      * Clears all data from this {@code StudentScoreBook}.
      */
