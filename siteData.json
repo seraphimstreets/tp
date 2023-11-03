@@ -108,7 +108,7 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "luminus-user-guide": "LumiNUS User Guide",
+        "user-guide-modulight": "User Guide: ModuLight",
         "quick-start": "Quick start",
         "command-format": "Command Format",
         "glossary": "Glossary",
