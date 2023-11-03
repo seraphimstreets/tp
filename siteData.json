@@ -137,7 +137,7 @@
         "sorting-students-scores-sortstuscore": "Sorting students scores: sortStuScore",
         "calculating-overall-statistics-stats": "Calculating overall statistics: stats",
         "calculating-statistics-of-a-graded-component-compstats": "Calculating statistics of a graded component : compStats",
-        "clearing-all-entries-clear": "Clearing all entries : clear",
+        "clearing-all-entries-clearall": "Clearing all entries : clearAll",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "loading-the-previous-data": "Loading the previous data",
