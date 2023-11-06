@@ -135,6 +135,7 @@
         "list-all-listall": "List all : listAll",
         "sorting-students-sortstu": "Sorting students: sortStu",
         "sorting-students-scores-sortstuscore": "Sorting students scores: sortStuScore",
+        "auto-grading-all-the-students-autograde": "Auto grading all the students: autoGrade",
         "calculating-overall-statistics-stats": "Calculating overall statistics: stats",
         "calculating-statistics-of-a-graded-component-compstats": "Calculating statistics of a graded component : compStats",
         "clearing-all-entries-clearall": "Clearing all entries : clearAll",
