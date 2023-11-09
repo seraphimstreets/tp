@@ -177,7 +177,13 @@
       "src": "team/seraphimstreets.md",
       "title": "Edison Siow's Project Portfolio Page",
       "headings": {
-        "project-modulight": "Project: ModuLight"
+        "project-modulight": "Project: ModuLight",
+        "contributions-to-user-guide": "Contributions to User Guide",
+        "graded-component-parameters": "Graded Component Parameters",
+        "add-a-graded-component-addcomp": "Add a graded component: addComp",
+        "edit-a-graded-component-editcomp": "Edit a graded component: editComp",
+        "delete-a-graded-component-deletecomp": "Delete a graded component: deleteComp",
+        "contributions-to-developer-guide": "Contributions to Developer Guide"
       },
       "headingKeywords": {}
     },
