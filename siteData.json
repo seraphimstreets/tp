@@ -57,6 +57,7 @@
         "list-commands": "List Commands",
         "add-graded-component": "Add Graded Component",
         "edit-graded-component": "Edit Graded Component",
+        "delete-graded-component": "Delete Graded Component",
         "sort-commands": "Sort Commands",
         "stats-commands": "Stats Commands",
         "auto-grading": "Auto-grading",
