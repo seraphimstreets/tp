@@ -54,6 +54,8 @@
         "add-student": "Add Student",
         "edit-student": "Edit Student",
         "find-student": "Find Student",
+        "add-graded-component": "Add Graded Component",
+        "edit-graded-component": "Edit Graded Component",
         "sort-commands": "Sort Commands",
         "auto-grading": "Auto-grading",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
