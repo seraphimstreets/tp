@@ -53,10 +53,12 @@
         "implementation": "Implementation",
         "add-student": "Add Student",
         "edit-student": "Edit Student",
-        "find-student": "Find Student",
+        "find-commands": "Find Commands",
+        "list-commands": "List Commands",
         "add-graded-component": "Add Graded Component",
         "edit-graded-component": "Edit Graded Component",
         "sort-commands": "Sort Commands",
+        "stats-commands": "Stats Commands",
         "auto-grading": "Auto-grading",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -71,6 +73,9 @@
         "adding-a-student": "Adding a student",
         "deleting-a-student": "Deleting a student",
         "finding-a-student": "Finding a student",
+        "sorting-students": "Sorting Students",
+        "sorting-student-scores": "Sorting Student Scores",
+        "calculating-statistics": "Calculating Statistics",
         "saving-data": "Saving data",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
@@ -118,6 +123,7 @@
       "headings": {
         "user-guide-modulight": "User Guide: ModuLight",
         "welcome-to-modulight": "Welcome to ModuLight",
+        "how-to-use-this-guide": "How to use this guide",
         "quick-start": "Quick start",
         "parameter-information": "Parameter Information",
         "student-parameters": "Student Parameters",
@@ -176,7 +182,7 @@
       "src": "team/feifeiraindrops.md",
       "title": "Yufei Sun's Project Portfolio Page",
       "headings": {
-        "project-luminus": "Project: LumiNUS"
+        "project-modulight": "Project: ModuLight"
       },
       "headingKeywords": {}
     },
@@ -184,7 +190,12 @@
       "src": "team/marioalvaro.md",
       "title": "Mario Alvaro's Project Portfolio Page",
       "headings": {
-        "project-tp": "Project: tp"
+        "project-modulight": "Project: ModuLight",
+        "contributions-to-user-guide": "Contributions to User Guide",
+        "edit-student-score-editscore": "Edit student score: editScore",
+        "auto-grading-all-the-students-autograde": "Auto grading all the students: autoGrade",
+        "contributions-to-developer-guide": "Contributions to Developer Guide",
+        "auto-grading": "Auto-grading"
       },
       "headingKeywords": {}
     },
